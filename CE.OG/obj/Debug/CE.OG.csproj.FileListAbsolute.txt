@@ -1,0 +1,10 @@
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\bin\Debug\CE.OG.exe.config
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\bin\Debug\CE.OG.exe
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\bin\Debug\CE.OG.pdb
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\obj\Debug\CE.OG.csproj.AssemblyReference.cache
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\obj\Debug\CE.OG.Form1.resources
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\obj\Debug\CE.OG.Properties.Resources.resources
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\obj\Debug\CE.OG.csproj.GenerateResource.cache
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\obj\Debug\CE.OG.csproj.CoreCompileInputs.cache
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\obj\Debug\CE.OG.exe
+C:\Users\praktikant\source\repos\CE.OG\CE.OG\obj\Debug\CE.OG.pdb
